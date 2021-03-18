@@ -13,7 +13,11 @@
     border-bottom-color: currentColor;
 }
 
-
+.PageHeader--Title {
+    font-size: 6rem;
+    margin-bottom: 0;
+    text-decoration:dotted;
+}
 /* Admin tweaks 1.0.3 */
 .nc-mediaLibrary-cardImage {
   object-fit: contain;
