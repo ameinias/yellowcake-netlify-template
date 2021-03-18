@@ -30,7 +30,8 @@ body {
 .PageHeader--Title {
     font-size: 6rem;
     margin-bottom: 0;
-    text-decoration:dotted;
+    text-decoration: dotted;
+    font-family: 'Lucida Console', Monaco, monospace;
 }
 /* Admin tweaks 1.0.3 */
 .nc-mediaLibrary-cardImage {
