@@ -8,11 +8,9 @@ meta:
   title: test meta title
 ---
 
-## This is the DefaultPage template
+## This is a page g managed to edit. 
 
-Paragraphs are separated by a blank line.
-
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+My sanity is seperated by a dashed line. 
 
 ### Unordered lists:
 
