@@ -1,3 +1,11 @@
+/*gblekkenhorst css tweaks*/
+.body {
+    font-family: 'Lucida Console', Monaco, monospace;
+}
+
+
+
+
 /* Admin tweaks 1.0.3 */
 .nc-mediaLibrary-cardImage {
   object-fit: contain;
