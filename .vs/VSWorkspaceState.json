@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
+    "\\content\\infoPages",
     "\\content\\settings",
     "\\src",
+    "\\src\\cms",
+    "\\src\\components",
     "\\src\\pages",
     "\\src\\templates",
-    "\\static",
-    "\\static\\admin",
-    "\\static\\admin\\email-templates",
-    "\\static\\images"
+    "\\static"
   ],
-  "SelectedNode": "\\static\\admin\\config.yml",
+  "SelectedNode": "\\src\\cms\\cms-utils.js",
   "PreviewInSolutionExplorer": false
 }
